@@ -19,5 +19,8 @@ jobs:
       - name: show date
         run: date
 
+      - name: showing uptime
+        run: uptime
+
    
      
